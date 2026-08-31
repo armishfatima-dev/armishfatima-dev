@@ -63,11 +63,11 @@ I'm currently working on earning certifications from:
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** https://www.linkedin.com/in/armish-fatima-903656414/
+💼 **LinkedIn:** https://www.linkedin.com/in/armish-fatima/
 
-🌐 **Portfolio Website**: Coming Soon
+🌐 **Portfolio Website**: https://armish-portfolio.netlify.app/
 
-📧 **Email**: Coming Soon
+📧 **Email**: armishfatiima@gmail.com
 
 ---
 
